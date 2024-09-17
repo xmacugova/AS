@@ -1,4 +1,4 @@
-**Architektúra softvéru **
+Architektúra softvéru
 
 Cieľom predmetu je poskytnúť študentom príležitosť získať rôzne perspektívy na uvažovanie o architektúre softvéru ako fundamentálnom pojme vo vývoji softvéru. Predmet sa snaží poukázať na to, že architektúra softvéru je viac než schematické architektonické štýly známe z ranného obdobia. Študenti sa toto všetko učia prostredníctvom ich vlastnej praktickej práce a intenzívnej diskusie.
 
