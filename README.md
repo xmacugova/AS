@@ -11,7 +11,7 @@ Hodnotenie na predmete:
 
 Cvičenia 
 
-V rámci cvičení budú študenti pracovať vo dvojiciach (tímoch) na spoločnom projekte. Výstupom bude správa, ktorá sa bude odovzdávať na konci semestra. Príklady tém ktorým je možné sa venovať v projekte je moňzé nájsť tuná (link na subor Temy na projekt.docx). Tím môže prísť aj s vlastným návrhom témy z oblasti architektúry SW. Vhodnosť témy je nutné prekonzultovať s cvičiacim. 
+V rámci cvičení budú študenti pracovať vo dvojiciach (tímoch) na spoločnom projekte. Výstupom bude správa, ktorá sa bude odovzdávať na konci semestra. Príklady tém, ktorým je možné sa venovať v projekte je možné nájsť v súbore Temy na projekt.docx. Tím môže prísť aj s vlastným návrhom témy z oblasti architektúry SW. Vhodnosť témy je nutné prekonzultovať s cvičiacim. 
 
 Priebežné výsledky práce na projekte budú jednotlivé tímy prezentovať v zmysle dohodnutého harmonogramu s cvičiacim (seminárna prezentácia). 
 
@@ -33,7 +33,7 @@ Harmonogram cvičení
 
 1. Seminárna prezentácia 
 - Uskutočňuje sa na cvičeniach v zmysle dohodnutého harmonogramu 
-- Prihlasovanie tímov ku konkrétnemu dátumu prezentácie bude možné do pripraveného excel. suboru (link na subor, ktory je potrebne ulozit na Google Drive pod Vasim univerzitnym kontom kedze tam budu mena studentov, pripajam subor Zoznam timov AS.xlsx)  
+- Prihlasovanie tímov ku konkrétnemu dátumu prezentácie bude možné do pripraveného excel. suboru, link: https://docs.google.com/spreadsheets/d/1l20JiSc7EWeXlX1F9xLo6eL2XF67Mhea/edit?usp=sharing&ouid=117695284171907660610&rtpof=true&sd=true
 - Každý tím odprezentuje svoju tému v trvaní 15 min.; tím tvoria dvaja študenti z toho istého cvičenia 
 - Po prezentácii nasleduje diskusia v trvaní 15 min. (diskutujúci tím bude pridelený cvičiacim)
 
