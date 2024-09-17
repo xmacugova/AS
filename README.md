@@ -66,5 +66,5 @@ Hodnotenie projektu
 
 Skúška 
 - na základe poznatkov z prednášok + odporúčanej literatúry (termín podľa rozpisu skúšok) 
-Príklady skúšokk z minulých rokov je možné nájsť tuná (http://www2.fiit.stuba.sk/~vranic/as/t/index.html) 
+Príklady skúšok z minulých rokov je možné nájsť tuná (http://www2.fiit.stuba.sk/~vranic/as/t/index.html) 
 Oázky budú vychádzať z tém preberaných na prednáškach. 
