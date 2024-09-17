@@ -47,6 +47,7 @@ Hodnotenie diskusie (6b)
 - Diskutujúci tím má za úlohu preukázať zvládnutie témy formou otázok a vyjadrenia konštruktívnej kritiky/názoru smerom k prezentujúcemu tímu 
 - Prezentujúci tím poskytne potrebné podklady diskutujúcemu tímu na prípravu v dostatočnom predstihu (na základe vzájomnej dohody) 
 
+
 2. Projekt 
 - Každý tím vypracuje projekt vo forme abstraktu a správy, prípadne doplňujúcich podkladov (napr. UML diagramy, vytvorené programy a pod.) 
 - Odovzdanie abstraktu - tím odovzdá PDF subor obsahujúci mená študentov, krúžok, termín cvičenia, názov témy a abstrakt v rozsahu 200-300 slov (do 29.9.2024, 23:59h); odovzdávať sa bude do miesta vytvoreného v AISe; Abstrakt sa nehodnotí, ale slúži primárne na ujasnenie si zámeru projektu a ako podklad na konzultácie na cvičeniach za účelom schválenia tém projektu 
