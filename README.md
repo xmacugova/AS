@@ -1,4 +1,4 @@
-Architektúra softvéru
+# Architektúra softvéru
 
 Cieľom predmetu je poskytnúť študentom príležitosť získať rôzne perspektívy na uvažovanie o architektúre softvéru ako fundamentálnom pojme vo vývoji softvéru. Predmet sa snaží poukázať na to, že architektúra softvéru je viac než schematické architektonické štýly známe z ranného obdobia. Študenti sa toto všetko učia prostredníctvom ich vlastnej praktickej práce a intenzívnej diskusie.
 
@@ -25,21 +25,21 @@ Harmonogram cvičení
 7. Prezentácie (2 tímy), konzultácie k projektu 
 8. Prezentácie (1 tím), konzultácie k projektu 
 9. Prezentácie (1 tím), konzultácie k projektu 
-10.Konzultácie k projektu 
-11.Konzultácie k projektu 
-12.Prezentácie projektov 
-13.Prezentácie projektov 
+10. Konzultácie k projektu 
+11. Konzultácie k projektu 
+12. Prezentácie projektov 
+13. Prezentácie projektov 
 
 
-1. Seminárna prezentácia 
+## A. Seminárna prezentácia 
 - Uskutočňuje sa na cvičeniach v zmysle dohodnutého harmonogramu 
-- Prihlasovanie tímov ku konkrétnemu dátumu prezentácie bude možné do pripraveného excel. suboru, link: https://docs.google.com/spreadsheets/d/1l20JiSc7EWeXlX1F9xLo6eL2XF67Mhea/edit?usp=sharing&ouid=117695284171907660610&rtpof=true&sd=true
+- Prihlasovanie tímov ku konkrétnemu dátumu prezentácie bude možné do pripraveného excel. súboru, link: https://docs.google.com/spreadsheets/d/1l20JiSc7EWeXlX1F9xLo6eL2XF67Mhea/edit?usp=sharing&ouid=117695284171907660610&rtpof=true&sd=true
 - Každý tím odprezentuje svoju tému v trvaní 15 min.; tím tvoria dvaja študenti z toho istého cvičenia 
 - Po prezentácii nasleduje diskusia v trvaní 15 min. (diskutujúci tím bude pridelený cvičiacim)
 
 - Prezentujúci tím nahrá svoju prezentáciu do AISu obsahujúcu aj zdroje literatúry z ktorej čerpal pri jej vypracovaní; prezentácia musí byť nahraná najneskôr do 23:59h v deň pred cvičením na ktorom sa bude prezentovať 
 
-Hodnotenie prezentacie (16b)
+Hodnotenie prezentácie (16b)
 - Spracovanie témy – 10 bodov (8 bodov obsah prezentácie + 2 body spracovanie prezentácie)
 - Reakcia na otázky zo strany prítomných kolegov (diskutujúci tím, kolegovia na cvičení, cvičiaci) – 6 bodov 
 
@@ -48,7 +48,7 @@ Hodnotenie diskusie (6b)
 - Prezentujúci tím poskytne potrebné podklady diskutujúcemu tímu na prípravu v dostatočnom predstihu (na základe vzájomnej dohody) 
 
 
-2. Projekt 
+## B. Projekt 
 - Každý tím vypracuje projekt vo forme abstraktu a správy, prípadne doplňujúcich podkladov (napr. UML diagramy, vytvorené programy a pod.) 
 - Odovzdanie abstraktu - tím odovzdá PDF subor obsahujúci mená študentov, krúžok, termín cvičenia, názov témy a abstrakt v rozsahu 200-300 slov (do 29.9.2024, 23:59h); odovzdávať sa bude do miesta vytvoreného v AISe; Abstrakt sa nehodnotí, ale slúži primárne na ujasnenie si zámeru projektu a ako podklad na konzultácie na cvičeniach za účelom schválenia tém projektu 
 - Odovzdanie projektu - finálnu správu v PDF formate odovzdá tím na konci semestra (15.12.2025; 23:59h) do AIS-u; rozsah správy je 5-6 stran
@@ -67,4 +67,4 @@ Hodnotenie projektu
 Skúška 
 - na základe poznatkov z prednášok + odporúčanej literatúry (termín podľa rozpisu skúšok) 
 Príklady skúšok z minulých rokov je možné nájsť tuná (http://www2.fiit.stuba.sk/~vranic/as/t/index.html) 
-Oázky budú vychádzať z tém preberaných na prednáškach. 
+Otázky budú vychádzať z tém preberaných na prednáškach. 
