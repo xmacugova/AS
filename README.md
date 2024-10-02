@@ -47,6 +47,13 @@ Hodnotenie diskusie (6b)
 - Diskutujúci tím má za úlohu preukázať zvládnutie témy formou otázok a vyjadrenia konštruktívnej kritiky/názoru smerom k prezentujúcemu tímu 
 - Prezentujúci tím poskytne potrebné podklady diskutujúcemu tímu na prípravu v dostatočnom predstihu (na základe vzájomnej dohody) 
 
+Obsah prezentácie:
+- úvod: kontext, cieľ projektu 
+- analýza problému: základné koncepty projektu, kľúčové termíny, referencie
+- metodológia: návrh riešenia problému 
+- popis projektu: architektonické riešenie, technológie, diagramy, implementácia
+- výsledky: merania, porovnania, výhody/nevýhody
+- zhrnutie: hlavné body projektu, prínos
 
 ## B. Projekt 
 - Každý tím vypracuje projekt vo forme abstraktu a správy, prípadne doplňujúcich podkladov (napr. UML diagramy, vytvorené programy a pod.) 
