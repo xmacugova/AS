@@ -58,7 +58,7 @@ Obsah prezentácie:
 ## B. Projekt 
 - Každý tím vypracuje projekt vo forme abstraktu a správy, prípadne doplňujúcich podkladov (napr. UML diagramy, vytvorené programy a pod.) 
 - Odovzdanie abstraktu - tím odovzdá PDF subor obsahujúci mená študentov, krúžok, termín cvičenia, názov témy a abstrakt v rozsahu 200-300 slov (do 29.9.2024, 23:59h); odovzdávať sa bude do miesta vytvoreného v AISe; Abstrakt sa nehodnotí, ale slúži primárne na ujasnenie si zámeru projektu a ako podklad na konzultácie na cvičeniach za účelom schválenia tém projektu 
-- Odovzdanie projektu - finálnu správu v PDF formate odovzdá tím na konci semestra (15.12.2024; 23:59h) do AIS-u; rozsah správy je 5-6 stran
+- Odovzdanie projektu - finálnu správu v PDF formate odovzdá tím na konci semestra (15.12.2024; 23:59h) do AIS-u; rozsah správy je 5-6 normostran
 - Pokyny pre napísanie správy môžete nájsť tuná (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474301/) alebo aj tuná (http://www2.fiit.stuba.sk/~vranic/as/e/project.html). 
 - Posledné dve cvičenia budú zamerané na prezentácie projektov 
 
